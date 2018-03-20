@@ -5,8 +5,8 @@ Inspired by [Awesome network analysis](https://github.com/briatte/awesome-networ
 # Content:
 
 - __[Datasets](#datasets)__
-- __[Data analysis](#dataanalysis)__
-- __[Image annotation](#imageannotation)__
+- __[Data analysis](#data analysis)__
+- __[Image annotation](#image annotation)__
 
 ## Datasets
 - [AGRRA](http://www.agrra.org/data-explorer/):
