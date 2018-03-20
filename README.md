@@ -5,11 +5,13 @@ Inspired by [Awesome network analysis](https://github.com/briatte/awesome-networ
 # Content:
 
 - __[Datasets](#datasets)__
-- __[Image annotation](#image annotation)__
+- __[Image annotation](#imageannotation)__
 
 ## Datasets
 - [AGRRA](http://www.agrra.org/data-explorer/): 
-- [Coral traits](https://coraltraits.org/): 
+- [Coral traits](https://coraltraits.org/):
+- [OBIS](http://www.iobis.org/)
+- [World register of marine species](http://www.marinespecies.org/)
 
 ## Image annotation
 - [CoralNet](https://coralnet.ucsd.edu/):
