@@ -11,6 +11,7 @@ Inspired by [Awesome network analysis](https://github.com/briatte/awesome-networ
 - __[Paper discovery](#image-annotation)__
 - __[Protocol sharing and discovery](#protocols-sharing-and-discovery)__
 - __[Scientific writing](#scientific-writing)__
+- __[Structure from motion](#structure-from-motion)__
 ----------------------------------------
 - __[Miscellanea](#miscellanea)__
 - __[Licence](#licence)__
@@ -53,6 +54,8 @@ Inspired by [Awesome network analysis](https://github.com/briatte/awesome-networ
 - [Overleaf](https://www.overleaf.com/)
 - [Texture](http://substance.io/texture/)
 - [Typeset](https://typeset.io/)
+
+## Structure from motion
 
 ## Miscellanea
 - [NOAA Coral reef watch satellite monitoring](https://coralreefwatch.noaa.gov/satellite/index.php)
