@@ -44,6 +44,7 @@ Inspired by [Awesome network analysis](https://github.com/briatte/awesome-networ
 - [Dimensions](https://app.dimensions.ai/discover/publication)
 - [Meta](http://meta.com/)
 - [Peerus](https://peer.us/)
+- [Unpaywall](https://unpaywall.org/):
 
 ## Protocols sharing and discovery
 - [Protocols.io](https://www.protocols.io/)
