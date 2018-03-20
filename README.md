@@ -51,6 +51,7 @@ Inspired by [Awesome network analysis](https://github.com/briatte/awesome-networ
 - [Authorea](https://www.authorea.com/)
 - [Manuscripts](https://www.manuscriptsapp.com/)
 - [Overleaf](https://www.overleaf.com/)
+- [Texture](http://substance.io/texture/)
 - [Typeset](https://typeset.io/)
 
 ## Miscellanea
