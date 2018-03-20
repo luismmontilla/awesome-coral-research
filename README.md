@@ -9,7 +9,8 @@ Inspired by [Awesome network analysis](https://github.com/briatte/awesome-networ
 - __[Image annotation](#imageannotation)__
 
 ## Datasets
-- [AGRRA](http://www.agrra.org/data-explorer/): 
+- [AGRRA](http://www.agrra.org/data-explorer/):
+- [Coral reef imagery by Eileen Graham of Jamaica in the 1960s](http://data.nhm.ac.uk/dataset/0ad5b54d-4c0d-4b14-94b1-35c218c5996f)
 - [Coral traits](https://coraltraits.org/):
 - [OBIS](http://www.iobis.org/)
 - [World register of marine species](http://www.marinespecies.org/)
@@ -24,6 +25,3 @@ Inspired by [Awesome network analysis](https://github.com/briatte/awesome-networ
 - [CoralNet](https://coralnet.ucsd.edu/):
 - [CPCe](https://cnso.nova.edu/cpce/index.html):
 - [Photoquad](http://www.mar.aegean.gr/sonarlab/photoquad/index.php):
-
-
-
