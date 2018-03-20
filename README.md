@@ -6,16 +6,14 @@ Inspired by [Awesome network analysis](https://github.com/briatte/awesome-networ
 
 - __[Datasets](#datasets)__
 - __[Data analysis](#data-analysis)__
-<<<<<<< HEAD
 - __[Education](#education)__
 - __[Image annotation](#image-annotation)__
-- __[Scientific writing](#scientific-writing)__
 - __[Paper discovery](#image-annotation)__
+- __[Scientific writing](#scientific-writing)__
 ----------------------------------------
 - __[Miscellanea](#miscellanea)__
-=======
-- __[Image annotation](#image-annotation)__
->>>>>>> 2fc3df75265f449e0470f08e00d82362192c3e56
+
+
 
 ## Datasets
 - [AGRRA](http://www.agrra.org/data-explorer/):
