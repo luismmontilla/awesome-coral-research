@@ -20,6 +20,7 @@ Inspired by [Awesome network analysis](https://github.com/briatte/awesome-networ
 
 ## Datasets
 - [AGRRA](http://www.agrra.org/data-explorer/):
+- [Cnidbase](http://cnidbase.com/blast/): Cnidarian evolution genomic database
 - [Coral reef imagery by Eileen Graham of Jamaica in the 1960s](http://data.nhm.ac.uk/dataset/0ad5b54d-4c0d-4b14-94b1-35c218c5996f)
 - [Coral traits](https://coraltraits.org/):
 - [OBIS](http://www.iobis.org/)
