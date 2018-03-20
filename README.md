@@ -9,7 +9,7 @@ Inspired by [Awesome network analysis](https://github.com/briatte/awesome-networ
 - __[Education](#education)__
 - __[Image annotation](#image-annotation)__
 - __[Paper discovery](#image-annotation)__
-- __[Protocols sharing and discovery](#protocols-sharing-and-discovery)
+- __[Protocol sharing and discovery](#protocols-sharing-and-discovery)__
 - __[Scientific writing](#scientific-writing)__
 ----------------------------------------
 - __[Miscellanea](#miscellanea)__
