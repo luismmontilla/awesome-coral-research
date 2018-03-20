@@ -14,6 +14,7 @@ Inspired by [Awesome network analysis](https://github.com/briatte/awesome-networ
 - [World register of marine species](http://www.marinespecies.org/)
 
 ## Image annotation
+- [CATAMI Classification scheme](http://catami.org/)
 - [CoralNet](https://coralnet.ucsd.edu/):
 - [CPCe](https://cnso.nova.edu/cpce/index.html):
 - [Photoquad](http://www.mar.aegean.gr/sonarlab/photoquad/index.php):
