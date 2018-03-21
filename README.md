@@ -57,7 +57,15 @@ Inspired by [Awesome network analysis](https://github.com/briatte/awesome-networ
 - [Texture](http://substance.io/texture/)
 - [Typeset](https://typeset.io/)
 
-## Structure from motion
+## Structure from Motion
+- [OpenMVG](https://openmvg.readthedocs.io/en/latest/software/SfM/SfM/)
+- [VisualSFM](http://ccwu.me/vsfm/)
+- [Bundler](https://www.cs.cornell.edu/%7Esnavely/bundler/)
+- [OpenCV module](https://docs.opencv.org/3.1.0/de/d7c/tutorial_table_of_content_sfm.html)
+- [Agisoft Photoscan](http://www.agisoft.com/)
+- [Pix4D](https://pix4d.com)
+- [OpenDroneMap](http://opendronemap.org/)
+
 
 ## Miscellanea
 - [NOAA Coral reef watch satellite monitoring](https://coralreefwatch.noaa.gov/satellite/index.php)
