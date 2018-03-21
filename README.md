@@ -12,7 +12,7 @@ Inspired by [Awesome network analysis](https://github.com/briatte/awesome-networ
 - __[Paper discovery](#image-annotation)__
 - __[Protocol sharing and discovery](#protocols-sharing-and-discovery)__
 - __[Scientific writing](#scientific-writing)__
-- __[Structure from motion](#structure-from-motion)__
+- __[Structure from motion and related](#structure-from-motion-and-related)__
 ----------------------------------------
 - __[Miscellanea](#miscellanea)__
 - __[Licence](https://github.com/luismmontilla/awesome-coral-research/blob/master/LICENCE.md)__
@@ -63,15 +63,16 @@ Inspired by [Awesome network analysis](https://github.com/briatte/awesome-networ
 - [Texture](http://substance.io/texture/)
 - [Typeset](https://typeset.io/)
 
-## Structure from Motion
-- [OpenMVG](https://openmvg.readthedocs.io/en/latest/software/SfM/SfM/)
-- [VisualSFM](http://ccwu.me/vsfm/)
-- [Bundler](https://www.cs.cornell.edu/%7Esnavely/bundler/)
-- [OpenCV module](https://docs.opencv.org/3.1.0/de/d7c/tutorial_table_of_content_sfm.html)
-- [Agisoft Photoscan](http://www.agisoft.com/)
-- [Pix4D](https://pix4d.com)
-- [OpenDroneMap](http://opendronemap.org/)
+## Structure from Motion and related
 
+- [Agisoft Photoscan](http://www.agisoft.com/)
+- [Bundler](https://www.cs.cornell.edu/%7Esnavely/bundler/)
+- [Hugin](http://hugin.sourceforge.net/): Stitching any series of overlapping pictures.
+- [OpenCV module](https://docs.opencv.org/3.1.0/de/d7c/tutorial_table_of_content_sfm.html)
+- [OpenDroneMap](http://opendronemap.org/)
+- [OpenMVG](https://openmvg.readthedocs.io/en/latest/software/SfM/SfM/)
+- [Pix4D](https://pix4d.com)
+- [VisualSFM](http://ccwu.me/vsfm/)
 
 ## Miscellanea
 - [NOAA Coral reef watch satellite monitoring](https://coralreefwatch.noaa.gov/satellite/index.php)
