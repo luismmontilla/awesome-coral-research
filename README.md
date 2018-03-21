@@ -7,7 +7,7 @@ Inspired by [Awesome network analysis](https://github.com/briatte/awesome-networ
 - __[Datasets](#datasets)__
 - __[Data analysis](#data-analysis)__
 - __[Education](#education)__
-- __[Identification and Taxonomy](#Identification-and-Taxonomy)__
+- __[Identification and Taxonomy](#identification-and-taxonomy)__
 - __[Image annotation](#image-annotation)__
 - __[Paper discovery](#image-annotation)__
 - __[Protocol sharing and discovery](#protocols-sharing-and-discovery)__
