@@ -7,6 +7,7 @@ Inspired by [Awesome network analysis](https://github.com/briatte/awesome-networ
 - __[Datasets](#datasets)__
 - __[Data analysis](#data-analysis)__
 - __[Education](#education)__
+- __[Identification and Taxonomy](#Identification-and-Taxonomy)__
 - __[Image annotation](#image-annotation)__
 - __[Paper discovery](#image-annotation)__
 - __[Protocol sharing and discovery](#protocols-sharing-and-discovery)__
@@ -24,7 +25,7 @@ Inspired by [Awesome network analysis](https://github.com/briatte/awesome-networ
 - [Coral reef imagery by Eileen Graham of Jamaica in the 1960s](http://data.nhm.ac.uk/dataset/0ad5b54d-4c0d-4b14-94b1-35c218c5996f)
 - [Coral traits](https://coraltraits.org/):
 - [OBIS](http://www.iobis.org/)
-- [World register of marine species](http://www.marinespecies.org/)
+
 
 ## Data analysis
 - [R](https://www.r-project.org/)
@@ -33,6 +34,11 @@ Inspired by [Awesome network analysis](https://github.com/briatte/awesome-networ
 
 ## Education
 - [Living Oceans Foundation Coral Reef Ecology Curriculum](https://www.livingoceansfoundation.org/education/portal/)
+
+## Identification and Taxonomy
+
+- [Corals of the World](http://www.coralsoftheworld.org/page/home/): Information, identification, distribution and taxonomy of reef building corals.
+- [World register of marine species](http://www.marinespecies.org/): Platform aiming to provide the most authoritative list of names of all marine species globally.
 
 ## Image annotation
 - [CATAMI Classification scheme](http://catami.org/)
