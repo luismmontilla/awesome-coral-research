@@ -14,7 +14,7 @@ Inspired by [Awesome network analysis](https://github.com/briatte/awesome-networ
 - __[Structure from motion](#structure-from-motion)__
 ----------------------------------------
 - __[Miscellanea](#miscellanea)__
-- __[Licence](#licence)__
+- __[Licence](https://github.com/luismmontilla/awesome-coral-research/blob/master/LICENCE.md)__
 
 
 
