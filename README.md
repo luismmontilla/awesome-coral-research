@@ -37,7 +37,7 @@ Inspired by [Awesome network analysis](https://github.com/briatte/awesome-networ
 - [Living Oceans Foundation Coral Reef Ecology Curriculum](https://www.livingoceansfoundation.org/education/portal/)
 
 ## Enzymatic assays
-- [BRENDA] Enzymatic information system.
+- [BRENDA](https://www.brenda-enzymes.org/): Enzymatic information system.
 
 ## Identification and Taxonomy
 
