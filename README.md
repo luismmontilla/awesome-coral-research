@@ -8,6 +8,7 @@ Inspired by [Awesome network analysis](https://github.com/briatte/awesome-networ
 - __[Data analysis](#data-analysis)__
 - __[Education](#education)__
 - __[Enzymatic assays](#enzymatic-assays)__
+- __[Histology](#histology)__
 - __[Identification and Taxonomy](#identification-and-taxonomy)__
 - __[Image annotation](#image-annotation)__
 - __[Paper discovery](#image-annotation)__
@@ -38,6 +39,9 @@ Inspired by [Awesome network analysis](https://github.com/briatte/awesome-networ
 
 ## Enzymatic assays
 - [BRENDA](https://www.brenda-enzymes.org/): Enzymatic information system.
+
+## Histology
+- [Coral Disease and Health Workshop: Coral Histopathology II](https://www.coris.noaa.gov/activities/cdhc_histo_II/):
 
 ## Identification and Taxonomy
 
