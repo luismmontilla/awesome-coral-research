@@ -7,6 +7,7 @@ Inspired by [Awesome network analysis](https://github.com/briatte/awesome-networ
 - __[Datasets](#datasets)__
 - __[Data analysis](#data-analysis)__
 - __[Education](#education)__
+- __[Enzymatic assays](#enzymatic-assays)__
 - __[Identification and Taxonomy](#identification-and-taxonomy)__
 - __[Image annotation](#image-annotation)__
 - __[Paper discovery](#image-annotation)__
@@ -34,6 +35,9 @@ Inspired by [Awesome network analysis](https://github.com/briatte/awesome-networ
 
 ## Education
 - [Living Oceans Foundation Coral Reef Ecology Curriculum](https://www.livingoceansfoundation.org/education/portal/)
+
+## Enzymatic assays
+- [BRENDA] Enzymatic information system.
 
 ## Identification and Taxonomy
 
