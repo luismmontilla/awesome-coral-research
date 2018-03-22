@@ -28,6 +28,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 - [Cnidbase](http://cnidbase.com/blast/): Cnidarian evolution genomic database
 - [Coral reef imagery by Eileen Graham of Jamaica in the 1960s](http://data.nhm.ac.uk/dataset/0ad5b54d-4c0d-4b14-94b1-35c218c5996f)
 - [Coral traits](https://coraltraits.org/):
+- [GeoSymbio](https://sites.google.com/site/geosymbio/): Global geospatial bioinformatics and ecoinformatics for Symbiodinium-host symbioses based on ITS2 gene sequences.
 - [OBIS](http://www.iobis.org/)
 
 
