@@ -86,5 +86,6 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 - [VisualSFM](http://ccwu.me/vsfm/)
 
 ## Miscellanea
+- [Coral reef science cyberinfrastructure network](https://www.earthcube.org/group/crescynt-coral-reef-science-cyberinfrastructure-network)
 - [NOAA Coral reef watch satellite monitoring](https://coralreefwatch.noaa.gov/satellite/index.php)
 - [Reef base](http://www.reefbase.org/main.aspx)
