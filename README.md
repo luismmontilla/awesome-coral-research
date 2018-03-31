@@ -57,9 +57,10 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 - [CPCe](https://cnso.nova.edu/cpce/index.html):
 - [Photoquad](http://www.mar.aegean.gr/sonarlab/photoquad/index.php):
 
-## Paper discovery
+## Paper discovery and access
 - [Dimensions](https://app.dimensions.ai/discover/publication)
 - [Meta](http://meta.com/)
+- [Open access button](https://openaccessbutton.org/): Free, legal research articles and data delivered instantly or automatically requested from authors.
 - [Peerus](https://peer.us/)
 - [Unpaywall](https://unpaywall.org/):
 
@@ -86,6 +87,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 - [VisualSFM](http://ccwu.me/vsfm/)
 
 ## Miscellanea
+- [Coral-List](http://coral.aoml.noaa.gov/mailman/listinfo/coral-list): NOAA's listserver for coral reef information and news.
 - [Coral reef science cyberinfrastructure network](https://www.earthcube.org/group/crescynt-coral-reef-science-cyberinfrastructure-network)
 - [NOAA Coral reef watch satellite monitoring](https://coralreefwatch.noaa.gov/satellite/index.php)
 - [Reef base](http://www.reefbase.org/main.aspx)
