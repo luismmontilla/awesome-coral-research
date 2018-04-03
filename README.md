@@ -6,6 +6,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 
 # Content:
 
+- __[Bleaching](#bleaching)__
 - __[Datasets](#datasets)__
 - __[Data analysis](#data-analysis)__
 - __[Education](#education)__
@@ -13,7 +14,9 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 - __[Histology](#histology)__
 - __[Identification and Taxonomy](#identification-and-taxonomy)__
 - __[Image annotation](#image-annotation)__
+- __[Microbiology](#microbiology)__
 - __[Paper discovery](#image-annotation)__
+- __[Presentations](#presentations)__
 - __[Protocol sharing and discovery](#protocols-sharing-and-discovery)__
 - __[Scientific writing](#scientific-writing)__
 - __[Structure from motion and related](#structure-from-motion-and-related)__
@@ -22,12 +25,17 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 - __[Licence](https://github.com/luismmontilla/awesome-coral-research/blob/master/LICENCE.md)__
 
 
+## Bleaching
+
+- [NOAA Coral reef watch satellite monitoring](https://coralreefwatch.noaa.gov/satellite/index.php)
 
 ## Datasets
 - [AGRRA](http://www.agrra.org/data-explorer/):
-- [Cnidbase](http://cnidbase.com/blast/): Cnidarian evolution genomic database
+- [Cnidbase](http://cnidbase.com/blast/): Cnidarian evolution genomic database.
+- [Coral microbiome portal](#coral-microbiome-portal)
 - [Coral reef imagery by Eileen Graham of Jamaica in the 1960s](http://data.nhm.ac.uk/dataset/0ad5b54d-4c0d-4b14-94b1-35c218c5996f)
 - [Coral traits](https://coraltraits.org/):
+- [Deep sea coral data porta](https://deepseacoraldata.noaa.gov/): Deep sea coral and sponge data, images, and technical reports from research funded by NOAA’s Deep Sea Coral Research and Technology Program (DSCRTP) and its partners.
 - [GeoSymbio](https://sites.google.com/site/geosymbio/): Global geospatial bioinformatics and ecoinformatics for Symbiodinium-host symbioses based on ITS2 gene sequences.
 - [OBIS](http://www.iobis.org/)
 
@@ -57,12 +65,20 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 - [CPCe](https://cnso.nova.edu/cpce/index.html):
 - [Photoquad](http://www.mar.aegean.gr/sonarlab/photoquad/index.php):
 
+## Microbiology:
+
+- [Coral microbiome portal](https://vamps.mbl.edu/portals/coral_microbe/coral.php): Database that brings together next generation sequencing data of coral-associate microorganisms from studies conducted thoughout the world’s reefs.
+
 ## Paper discovery and access
 - [Dimensions](https://app.dimensions.ai/discover/publication)
 - [Meta](http://meta.com/)
 - [Open access button](https://openaccessbutton.org/): Free, legal research articles and data delivered instantly or automatically requested from authors.
 - [Peerus](https://peer.us/)
 - [Unpaywall](https://unpaywall.org/):
+
+## Presentations
+
+- [Conceptual diagram creator](http://ian.umces.edu/learn/conceptual_diagrams): A library and online editor containing over 2500 custom made vector symbols designed specifically for enhancing science communication skills.
 
 ## Protocols sharing and discovery
 - [Protocols.io](https://www.protocols.io/)
@@ -88,6 +104,6 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 
 ## Miscellanea
 - [Coral-List](http://coral.aoml.noaa.gov/mailman/listinfo/coral-list): NOAA's listserver for coral reef information and news.
-- [Coral reef science cyberinfrastructure network](https://www.earthcube.org/group/crescynt-coral-reef-science-cyberinfrastructure-network)
-- [NOAA Coral reef watch satellite monitoring](https://coralreefwatch.noaa.gov/satellite/index.php)
+- [CoRIS](https://www.coris.noaa.gov/welcome.html): Coral reef information system. Portal that provides access to NOAA coral reef information and data products with emphasis on the U.S. states, territories and remote island areas.
+- [CRESYNT](https://www.earthcube.org/group/crescynt-coral-reef-science-cyberinfrastructure-network): Coral Reef Science and Cyberinfrastructure Network. A multi-tiered and multidisciplinary network of coral reef researchers, ocean scientists, cyberinfrastructure specialists, and computer scientists.
 - [Reef base](http://www.reefbase.org/main.aspx)
