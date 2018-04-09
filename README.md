@@ -60,7 +60,8 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 - [World register of marine species](http://www.marinespecies.org/): Platform aiming to provide the most authoritative list of names of all marine species globally.
 
 ## Image annotation
-- [CATAMI Classification scheme](http://catami.org/)
+- [CATAMI Classification scheme](http://catami.org/): Standard classification
+scheme for scoring marine biota and physical characteristics from underwater imagery.
 - [CoralNet](https://coralnet.ucsd.edu/):
 - [CPCe](https://cnso.nova.edu/cpce/index.html):
 - [Photoquad](http://www.mar.aegean.gr/sonarlab/photoquad/index.php):
