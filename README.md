@@ -65,8 +65,12 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 - [World register of marine species](http://www.marinespecies.org/): Platform aiming to provide the most authoritative list of names of all marine species globally.
 
 ## Image annotation
+<<<<<<< Updated upstream
 - [CATAMI Classification scheme](http://catami.org/): Standard classification
 scheme for scoring marine biota and physical characteristics from underwater imagery.
+=======
+- [CATAMI Classification scheme](http://catami.org/):
+>>>>>>> Stashed changes
 - [CoralNet](https://coralnet.ucsd.edu/):
 - [CPCe](https://cnso.nova.edu/cpce/index.html):
 - [Photoquad](http://www.mar.aegean.gr/sonarlab/photoquad/index.php):
@@ -87,15 +91,15 @@ scheme for scoring marine biota and physical characteristics from underwater ima
 - [Conceptual diagram creator](http://ian.umces.edu/learn/conceptual_diagrams): A library and online editor containing over 2500 custom made vector symbols designed specifically for enhancing science communication skills.
 
 ## Protocols sharing and discovery
-- [Protocols.io](https://www.protocols.io/)
-- [Scientific protocols](https://protocols.scienceexchange.com/)  
+- [Protocols.io](https://www.protocols.io/):
+- [Scientific protocols](https://protocols.scienceexchange.com/):
 
 ## Scientific writing
-- [Authorea](https://www.authorea.com/)
-- [Manuscripts](https://www.manuscriptsapp.com/)
-- [Overleaf](https://www.overleaf.com/)
-- [Texture](http://substance.io/texture/)
-- [Typeset](https://typeset.io/)
+- [Authorea](https://www.authorea.com/):
+- [Manuscripts](https://www.manuscriptsapp.com/):
+- [Overleaf](https://www.overleaf.com/):
+- [Texture](http://substance.io/texture/):
+- [Typeset](https://typeset.io/):
 
 ## Structure from Motion and related
 
@@ -112,4 +116,4 @@ scheme for scoring marine biota and physical characteristics from underwater ima
 - [Coral-List](http://coral.aoml.noaa.gov/mailman/listinfo/coral-list): NOAA's listserver for coral reef information and news.
 - [CoRIS](https://www.coris.noaa.gov/welcome.html): Coral reef information system. Portal that provides access to NOAA coral reef information and data products with emphasis on the U.S. states, territories and remote island areas.
 - [CRESYNT](https://www.earthcube.org/group/crescynt-coral-reef-science-cyberinfrastructure-network): Coral Reef Science and Cyberinfrastructure Network. A multi-tiered and multidisciplinary network of coral reef researchers, ocean scientists, cyberinfrastructure specialists, and computer scientists.
-- [Reef base](http://www.reefbase.org/main.aspx)
+- [Reef base](http://www.reefbase.org/main.aspx).
