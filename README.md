@@ -11,6 +11,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 - __[Data analysis](#data-analysis)__
 - __[Education](#education)__
 - __[Enzymatic assays](#enzymatic-assays)__
+- __[Genomics](#genomics)]__
 - __[Histology](#histology)__
 - __[Identification and Taxonomy](#identification-and-taxonomy)__
 - __[Image annotation](#image-annotation)__
