@@ -38,7 +38,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 - [Coral traits](https://coraltraits.org/): A growing compilation of scleractinian coral life history trait, phylogenetic and biogeographic data.
 - [Deep sea coral data porta](https://deepseacoraldata.noaa.gov/): Deep sea coral and sponge data, images, and technical reports from research funded by NOAA’s Deep Sea Coral Research and Technology Program (DSCRTP) and its partners.
 - [GeoSymbio](https://sites.google.com/site/geosymbio/): Global geospatial bioinformatics and ecoinformatics for Symbiodinium-host symbioses based on ITS2 gene sequences.
-- [Matz lab coral transcriptomes](#genomics): Jump to [Genomics](#genomics).
+- [Coral transcriptomes](#genomics): Jump to [Genomics](#genomics)
 - [OBIS](http://www.iobis.org/)
 
 
@@ -54,6 +54,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 - [BRENDA](https://www.brenda-enzymes.org/): Enzymatic information system.
 
 ## Genomics
+- [Kenkel lab coral transcriptomes](https://dornsife.usc.edu/labs/carlslab/data/): Transcriptomics data for several scleractinian species.
 - [Matz lab coral transcriptomes](https://matzlab.weebly.com/data--code.html): Transcriptomics data for several scleractinian species.
 
 ## Histology
