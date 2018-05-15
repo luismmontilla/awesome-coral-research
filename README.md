@@ -49,6 +49,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 
 ## Education
 - [Living Oceans Foundation Coral Reef Ecology Curriculum](https://www.livingoceansfoundation.org/education/portal/)
+- [3D printable polyp model](https://coralreef.noaa.gov/education/polypmodel.html): Cross section of a single polyp, including its tentacles, gastrodermis, stomach cavity, and the complex skeletal structure underneath. 
 
 ## Enzymatic assays
 - [BRENDA](https://www.brenda-enzymes.org/): Enzymatic information system.
