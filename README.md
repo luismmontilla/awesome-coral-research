@@ -55,6 +55,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 - [BRENDA](https://www.brenda-enzymes.org/): Enzymatic information system.
 
 ## Genomics
+- [*Acropora digitifera* transcriptome data](http://marinegenomics.oist.jp/coral/viewer/info?project_id=3): Whole genome shotgun sequence project of the Okinawan staghorn coral, *Acropora digitifera*.  
 - [Kenkel lab coral transcriptomes](https://dornsife.usc.edu/labs/carlslab/data/): Transcriptomics data for several scleractinian species.
 - [Matz lab coral transcriptomes](https://matzlab.weebly.com/data--code.html): Transcriptomics data for several scleractinian species.
 
