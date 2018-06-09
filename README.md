@@ -78,6 +78,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 scheme for scoring marine biota and physical characteristics from underwater imagery.
 - [CoralNet](https://coralnet.ucsd.edu/):
 - [CPCe](https://cnso.nova.edu/cpce/index.html):
+- [Seascape](http://www.seascapesoft.org/): A free software program to get semi-automatically segmented images (homogenous regions) from underwater photographs of benthic communities, where each individual patch (species/categories) is routinely associated to its area cover and perimeter.
 - [Photoquad](http://www.mar.aegean.gr/sonarlab/photoquad/index.php):
 
 ## Microbiology:
