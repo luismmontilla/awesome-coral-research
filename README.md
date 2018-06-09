@@ -9,6 +9,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 - __[Bleaching](#bleaching)__
 - __[Datasets](#datasets)__
 - __[Data analysis](#data-analysis)__
+- __[Data and project management](#data-and-project-management)__
 - __[Education](#education)__
 - __[Enzymatic assays](#enzymatic-assays)__
 - __[Genomics](#genomics)__
@@ -46,6 +47,10 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 - [R](https://www.r-project.org/)
 - [RStudio](https://www.rstudio.com/)
 - [Past](https://folk.uio.no/ohammer/past/):
+
+## Data and project management
+- [MERMAID - the Marine Ecological Research Management AID](https://datamermaid.org/): An online-offline web application for coral reef data collection.
+- [Open Science Framework](https://osf.io/): Project management repository that supports researchers across their entire project lifecycle.
 
 ## Education
 - [Living Oceans Foundation Coral Reef Ecology Curriculum](https://www.livingoceansfoundation.org/education/portal/)
