@@ -1,6 +1,6 @@
 # Awesome coral research
 
-An [awesome list](https://github.com/sindresorhus/awesome) of resources that you can use in your coral research. Inspired by [Awesome network analysis](https://github.com/briatte/awesome-network-analysis). Feel free to add any category or resource with a pull request.
+An [awesome list](https://github.com/sindresorhus/awesome) of resources that you can use in your coral research. Inspired by [Awesome network analysis](https://github.com/briatte/awesome-network-analysis). Feel free to add any category and/or resource with a pull request. You can also email me your comments or suggestions.
 
 ![](header.png)
 
