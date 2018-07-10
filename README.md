@@ -69,6 +69,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 
 ## Identification and Taxonomy
 
+- [Corals of Chagos](https://chagosinformationportal.org/corals): Corals of Chagos documents the approximately 300 corals and reef building relatives that are found in the Chagos Archipelago.
 - [Corals of the World](http://www.coralsoftheworld.org/page/home/): Information, identification, distribution and taxonomy of reef building corals.
 - [World register of marine species](http://www.marinespecies.org/): Platform aiming to provide the most authoritative list of names of all marine species globally.
 
