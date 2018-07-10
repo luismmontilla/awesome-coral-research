@@ -119,6 +119,7 @@ scheme for scoring marine biota and physical characteristics from underwater ima
 - [VisualSFM](http://ccwu.me/vsfm/)
 
 ## Miscellanea
+- [CaribNode](http://www.caribnode.org/):  a regional information system that brings together authoritative data from national and regional entities, making it possible to create tools for resource management across the region. 
 - [Coral-List](http://coral.aoml.noaa.gov/mailman/listinfo/coral-list): NOAA's listserver for coral reef information and news.
 - [CoRIS](https://www.coris.noaa.gov/welcome.html): Coral reef information system. Portal that provides access to NOAA coral reef information and data products with emphasis on the U.S. states, territories and remote island areas.
 - [CRESYNT](https://www.earthcube.org/group/crescynt-coral-reef-science-cyberinfrastructure-network): Coral Reef Science and Cyberinfrastructure Network. A multi-tiered and multidisciplinary network of coral reef researchers, ocean scientists, cyberinfrastructure specialists, and computer scientists.
