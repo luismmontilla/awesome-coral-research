@@ -46,7 +46,6 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 ## Data analysis
 - [R](https://www.r-project.org/)
 - [RStudio](https://www.rstudio.com/)
-- [Past](https://folk.uio.no/ohammer/past/):
 
 ## Data and project management
 - [MERMAID - the Marine Ecological Research Management AID](https://datamermaid.org/): An online-offline web application for coral reef data collection.
