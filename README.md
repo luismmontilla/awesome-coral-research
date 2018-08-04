@@ -17,6 +17,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 - __[Identification and Taxonomy](#identification-and-taxonomy)__
 - __[Image annotation](#image-annotation)__
 - __[Microbiology](#microbiology)__
+- __[Paleobiology](#paleobiology)__
 - __[Paper discovery](#image-annotation)__
 - __[Presentations](#presentations)__
 - __[Protocol sharing and discovery](#protocols-sharing-and-discovery)__
@@ -84,6 +85,10 @@ scheme for scoring marine biota and physical characteristics from underwater ima
 ## Microbiology:
 
 - [Coral microbiome portal](https://vamps.mbl.edu/portals/coral_microbe/coral.php): Database that brings together next generation sequencing data of coral-associate microorganisms from studies conducted thoughout the world’s reefs.
+
+## Paleobiology:
+
+-[Paleobiology database](https://paleobiodb.org/): a public database of paleontological data that anyone can use, maintained by an international non-governmental group of paleontologists.
 
 ## Paper discovery and access
 - [Dimensions](https://app.dimensions.ai/discover/publication)
