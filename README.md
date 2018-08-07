@@ -25,6 +25,8 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 - __[Structure from motion and related](#structure-from-motion-and-related)__
 ----------------------------------------
 - __[Miscellanea](#miscellanea)__
+----------------------------------------
+- __[Acknowledgments]
 - __[Licence](https://github.com/luismmontilla/awesome-coral-research/blob/master/LICENCE.md)__
 
 
@@ -131,4 +133,7 @@ scheme for scoring marine biota and physical characteristics from underwater ima
 - [Mesophotic.org](http://www.mesophotic.org): A repository for information on mesophotic coral ecosystems
 - [Reef base](http://www.reefbase.org/main.aspx):
 - [Reefscape project](https://reefscape.carnegiescience.edu/):
+-----------------------------------------------------
+## Acknoledgments
 
+Thanks to [José Cappelletto](https://github.com/cappelletto), and [Alejandra Hernández-Agreda](https://twitter.com/alelimonha), who have contributed with additions to this list.
