@@ -26,7 +26,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 ----------------------------------------
 - __[Miscellanea](#miscellanea)__
 ----------------------------------------
-- __[Acknowledgments]
+- __[Acknowledgments](#acknowledgments)
 - __[Licence](https://github.com/luismmontilla/awesome-coral-research/blob/master/LICENCE.md)__
 
 
