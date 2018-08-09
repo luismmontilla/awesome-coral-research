@@ -79,7 +79,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 
 - [CATAMI Classification scheme](http://catami.org/): Standard classification
 scheme for scoring marine biota and physical characteristics from underwater imagery.
-- [CoralNet](https://coralnet.ucsd.edu/):
+- [CoralNet](https://coralnet.ucsd.edu/): CoralNet is a repository and a resource for benthic images analysis. The site implements computer vision algorithms which allow fully- and semi-automated annotation. It also serves as a repository and collaboration platform.
 - [CPCe](https://cnso.nova.edu/cpce/index.html):
 - [Seascape](http://www.seascapesoft.org/): A free software program to get semi-automatically segmented images (homogenous regions) from underwater photographs of benthic communities, where each individual patch (species/categories) is routinely associated to its area cover and perimeter.
 - [Photoquad](http://www.mar.aegean.gr/sonarlab/photoquad/index.php):
