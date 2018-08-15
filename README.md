@@ -89,7 +89,7 @@ scheme for scoring marine biota and physical characteristics from underwater ima
 ## Microbiology:
 
 - [Coral microbiome database](https://www.bco-dmo.org/dataset/724355): A custom ARB database of SSU rRNA gene sequences from corals, as well representative cultivated and environmental sequences from public sources.
-- [Coral microbiome portal](https://vamps2.mbl.edu/portals/CMP): Database that brings together next generation sequencing data of coral-associate microorganisms from studies conducted thoughout the world’s reefs.
+- [Coral microbiome portal](https://vamps2.mbl.edu/portals/CMP): Database that brings together next generation sequencing data of coral-associated microorganisms from studies conducted thoughout the world’s reefs.
 
 ## Paleobiology:
 
@@ -133,7 +133,6 @@ scheme for scoring marine biota and physical characteristics from underwater ima
 - [Coral-List](http://coral.aoml.noaa.gov/mailman/listinfo/coral-list): NOAA's listserver for coral reef information and news.
 - [CoRIS](https://www.coris.noaa.gov/welcome.html): Coral reef information system. Portal that provides access to NOAA coral reef information and data products with emphasis on the U.S. states, territories and remote island areas.
 - [CRESCYNT](https://www.earthcube.org/group/crescynt-coral-reef-science-cyberinfrastructure-network): Coral Reef Science and Cyberinfrastructure Network. A multi-tiered and multidisciplinary network of coral reef researchers, ocean scientists, cyberinfrastructure specialists, and computer scientists.
-- [Mesophotic.org](http://www.mesophotic.org): A repository for information on mesophotic coral ecosystems
 - [Reef base](http://www.reefbase.org/main.aspx): A global information system for coral reefs.
 - [Reefscape project](https://reefscape.carnegiescience.edu/): The Reefscape Project explores coral reefs at new biogeographic scales for science, conservation, management, and resource policy. The project is a multifaceted initiative combining extensive field work, high-tech remote sensing from the Carnegie Airborne Observatory and satellites, plus science communication and community outreach.
 -----------------------------------------------------
