@@ -1,6 +1,6 @@
-# Awesome coral research
+# Awesome coral research [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![DOI](https://zenodo.org/badge/125680355.svg)](https://zenodo.org/badge/latestdoi/125680355)
 
-An [awesome list](https://github.com/sindresorhus/awesome) of resources that you can use in your coral research. Inspired by [Awesome network analysis](https://github.com/briatte/awesome-network-analysis). Feel free to add any category and/or resource with a pull request. You can also email me your comments or suggestions.
+An [awesome list](https://github.com/sindresorhus/awesome) of resources that you can use in your coral research. Inspired by [Awesome network analysis](https://github.com/briatte/awesome-network-analysis). Feel free to add any category and/or resource with a [pull request](https://github.com/luismmontilla/awesome-coral-research/blob/master/contributing.md). You can also [contact](https://github.com/luismmontilla) me with your comments or suggestions.
 
 ![](header.png)
 
@@ -27,6 +27,8 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 - __[Miscellanea](#miscellanea)__
 ----------------------------------------
 - __[Acknowledgments](#acknowledgments)__
+- __[Code of conduct](https://github.com/luismmontilla/awesome-coral-research/blob/master/code-of-conduct.md)__
+- __[Contributing guidelines](https://github.com/luismmontilla/awesome-coral-research/blob/master/contributing.md)__
 - __[Licence](https://github.com/luismmontilla/awesome-coral-research/blob/master/LICENCE.md)__
 
 
