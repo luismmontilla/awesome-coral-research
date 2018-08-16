@@ -67,6 +67,8 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 - [*Acropora digitifera* transcriptome data](http://marinegenomics.oist.jp/coral/viewer/info?project_id=3): Whole genome shotgun sequence project of the Okinawan staghorn coral, *Acropora digitifera*.  
 - [Kenkel lab coral transcriptomes](https://dornsife.usc.edu/labs/carlslab/data/): Transcriptomics data for several scleractinian species.
 - [Matz lab coral transcriptomes](https://matzlab.weebly.com/data--code.html): Transcriptomics data for several scleractinian species.
+- [*Pocillopora damicornis*](http://symbiont.iis.sinica.edu.tw/coral_pdltte/static/html/index.html#home): Interactive transcriptomic data for *Pocillopora damicornis*.
+- [*Seriatopora hystrix* +*Symbiodinium*](http://symbiont.iis.sinica.edu.tw/s_hystrix/static/html/): Interactive transcriptomic data for *Seriatopora hystrix*.
 
 ## Histology
 - [Coral Disease and Health Workshop: Coral Histopathology II](https://www.coris.noaa.gov/activities/cdhc_histo_II/): Report containing a description of a study set of histology slides used in reaching consensus histopathological descriptions for selected coral lesions representing 15 types of field diagnosis, 9 presumed disease conditions, and 8 scleractinian and 1 gorgonian species.
@@ -138,4 +140,4 @@ scheme for scoring marine biota and physical characteristics from underwater ima
 -----------------------------------------------------
 ## Acknowledgments
 
-Thanks to [José Cappelletto](https://github.com/cappelletto), and [Alejandra Hernández-Agreda](https://twitter.com/alelimonha), who have contributed with additions to this list.
+Thanks to [José Cappelletto](https://github.com/cappelletto), [Alejandra Hernández-Agreda](https://twitter.com/alelimonha), and [Anderson Mayfield]() who have contributed with additions to this list.
