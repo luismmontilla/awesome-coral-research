@@ -68,6 +68,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 - [Kenkel lab coral transcriptomes](https://dornsife.usc.edu/labs/carlslab/data/): Transcriptomics data for several scleractinian species.
 - [Matz lab coral transcriptomes](https://matzlab.weebly.com/data--code.html): Transcriptomics data for several scleractinian species.
 - [*Pocillopora damicornis*](http://symbiont.iis.sinica.edu.tw/coral_pdltte/static/html/index.html#home): Interactive transcriptomic data for *Pocillopora damicornis*.
+- [Reef Genomics](http://reefgenomics.org): A collection of transcriptome and proteome data from reef organisms.
 - [*Seriatopora hystrix* +*Symbiodinium*](http://symbiont.iis.sinica.edu.tw/s_hystrix/static/html/): Interactive transcriptomic data for *Seriatopora hystrix*.
 
 ## Histology
@@ -75,6 +76,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 
 ## Identification and Taxonomy
 
+- [Coralpedia](http://coralpedia.bio.warwick.ac.uk/en): A photographic guide to Caribbean corals, octocorals and sponges.
 - [Corals of Chagos](https://chagosinformationportal.org/corals): Corals of Chagos documents the approximately 300 corals and reef building relatives that are found in the Chagos Archipelago.
 - [Corals of the World](http://www.coralsoftheworld.org/page/home/): Information, identification, distribution and taxonomy of reef building corals.
 - [World register of marine species](http://www.marinespecies.org/): Platform aiming to provide the most authoritative list of names of all marine species globally.
@@ -140,4 +142,4 @@ scheme for scoring marine biota and physical characteristics from underwater ima
 -----------------------------------------------------
 ## Acknowledgments
 
-Thanks to [José Cappelletto](https://github.com/cappelletto), [Alejandra Hernández-Agreda](https://twitter.com/alelimonha), and [Anderson Mayfield]() who have contributed with additions to this list.
+Thanks to [José Cappelletto](https://github.com/cappelletto), [Alejandra Hernández-Agreda](https://twitter.com/alelimonha), [Anderson Mayfield](), and [Christian Voolstra](https://twitter.com/reefgenomics) who have contributed with additions to this list.
