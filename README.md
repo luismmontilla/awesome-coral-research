@@ -43,6 +43,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 - [Coral reef imagery by Eileen Graham of Jamaica in the 1960s](http://data.nhm.ac.uk/dataset/0ad5b54d-4c0d-4b14-94b1-35c218c5996f): Acollection of 1481 images that were made by Eileen Graham between 1966 and 1968 showing coral reefs from the northern coast of Jamaica.
 - [Coral traits](https://coraltraits.org/): A growing compilation of scleractinian coral life history trait, phylogenetic and biogeographic data.
 - [Deep sea coral data porta](https://deepseacoraldata.noaa.gov/): Deep sea coral and sponge data, images, and technical reports from research funded by NOAA’s Deep Sea Coral Research and Technology Program (DSCRTP) and its partners.
+- [Fishbase](http://www.fishbase.org/search.php): A global species database of fish species.
 - [GeoSymbio](https://sites.google.com/site/geosymbio/): Global geospatial bioinformatics and ecoinformatics for Symbiodinium-host symbioses based on ITS2 gene sequences.
 - [Coral transcriptomes](#genomics): Jump to [Genomics](#genomics)
 - [OBIS](http://www.iobis.org/): A global open-access data and information clearing-house on marine biodiversity for science, conservation and sustainable development
@@ -142,4 +143,4 @@ scheme for scoring marine biota and physical characteristics from underwater ima
 -----------------------------------------------------
 ## Acknowledgments
 
-Thanks to [José Cappelletto](https://github.com/cappelletto), [Alejandra Hernández-Agreda](https://twitter.com/alelimonha), [Anderson Mayfield](), and [Christian Voolstra](https://twitter.com/reefgenomics) who have contributed with additions to this list.
+Thanks to [José Cappelletto](https://github.com/cappelletto), [Alejandra Hernández-Agreda](https://twitter.com/alelimonha), [Anderson Mayfield](), [Christian Voolstra](https://twitter.com/reefgenomics), and [Russel Kelley](http://www.russellkelley.info/),  who have contributed with additions to this list.
