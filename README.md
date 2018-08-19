@@ -64,6 +64,11 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 ## Enzymatic assays
 - [BRENDA](https://www.brenda-enzymes.org/): Enzymatic information system.
 
+## Funding
+- [Coral Reef
+Funding Landscape](https://coralfunders.com/): A tool exploring international funding allocations for the sustainable management of coral reefs and related mangroves and seagrass ecosystems.
+- [Open Grants](https://www.ogrants.org/): A list of openly-shared grant proposals. The authors do this to open up science so that all stages of the process can benefit from better interaction and communication and to provide examples for early career scientists writing grants. 
+
 ## Genomics
 - [*Acropora digitifera* transcriptome data](http://marinegenomics.oist.jp/coral/viewer/info?project_id=3): Whole genome shotgun sequence project of the Okinawan staghorn coral, *Acropora digitifera*.  
 - [Kenkel lab coral transcriptomes](https://dornsife.usc.edu/labs/carlslab/data/): Transcriptomics data for several scleractinian species.
@@ -80,6 +85,8 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 - [Coralpedia](http://coralpedia.bio.warwick.ac.uk/en): A photographic guide to Caribbean corals, octocorals and sponges.
 - [Corals of Chagos](https://chagosinformationportal.org/corals): Corals of Chagos documents the approximately 300 corals and reef building relatives that are found in the Chagos Archipelago.
 - [Corals of the World](http://www.coralsoftheworld.org/page/home/): Information, identification, distribution and taxonomy of reef building corals.
+- [Guam reef life](http://www.guamreeflife.com/species-id/): A collection of images representing more than 2700 marine organisms to identify reef species seen on Guam.
+- [The Sponge Guide](http://www.spongeguide.org/): A photographic guide to Caribbean sponges.
 - [World register of marine species](http://www.marinespecies.org/): Platform aiming to provide the most authoritative list of names of all marine species globally.
 
 ## Image annotation
@@ -135,12 +142,21 @@ scheme for scoring marine biota and physical characteristics from underwater ima
 
 ## Miscellanea
 - [CaribNode](http://www.caribnode.org/):  a regional information system that brings together authoritative data from national and regional entities, making it possible to create tools for resource management across the region.
+- [CITES: Trade database](https://trade.cites.org/): A database holding over 13 million records of trade in wildlife.
+- [CITES: Checklist of species](http://checklist.cites.org/): The official list of CITES-listed species and the CITES appendix in which they are currently listed.
 - [Coral-List](http://coral.aoml.noaa.gov/mailman/listinfo/coral-list): NOAA's listserver for coral reef information and news.
 - [CoRIS](https://www.coris.noaa.gov/welcome.html): Coral reef information system. Portal that provides access to NOAA coral reef information and data products with emphasis on the U.S. states, territories and remote island areas.
 - [CRESCYNT](https://www.earthcube.org/group/crescynt-coral-reef-science-cyberinfrastructure-network): Coral Reef Science and Cyberinfrastructure Network. A multi-tiered and multidisciplinary network of coral reef researchers, ocean scientists, cyberinfrastructure specialists, and computer scientists.
+- [IUCN Red List of Threatened Species](http://www.iucnredlist.org): A list providing taxonomic, conservation status and distribution information on plants, fungi and animals that have been globally evaluated using the IUCN Red List Categories and Criteria.
 - [Reef base](http://www.reefbase.org/main.aspx): A global information system for coral reefs.
 - [Reefscape project](https://reefscape.carnegiescience.edu/): The Reefscape Project explores coral reefs at new biogeographic scales for science, conservation, management, and resource policy. The project is a multifaceted initiative combining extensive field work, high-tech remote sensing from the Carnegie Airborne Observatory and satellites, plus science communication and community outreach.
 -----------------------------------------------------
 ## Acknowledgments
 
-Thanks to [José Cappelletto](https://github.com/cappelletto), [Alejandra Hernández-Agreda](https://twitter.com/alelimonha), [Anderson Mayfield](), [Christian Voolstra](https://twitter.com/reefgenomics), and [Russel Kelley](http://www.russellkelley.info/),  who have contributed with additions to this list.
+Thanks to the following colleagues (alphabetically listed) who have contributed with additions to this list:
+- [José Cappelletto](https://github.com/cappelletto).
+- Douglas Fenner.
+- [Alejandra Hernández-Agreda](https://twitter.com/alelimonha).
+- [Russel Kelley](http://www.russellkelley.info/)
+- [Anderson Mayfield](coralreefdiagnostics.com).
+- [Christian Voolstra](https://twitter.com/reefgenomics).
