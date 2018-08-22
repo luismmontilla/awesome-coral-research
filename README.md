@@ -56,6 +56,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 ## Data and project management
 - [MERMAID - the Marine Ecological Research Management AID](https://datamermaid.org/): An online-offline web application for coral reef data collection.
 - [Open Science Framework](https://osf.io/): Project management repository that supports researchers across their entire project lifecycle.
+- [Guide to writing "readme" style metadata](https://data.research.cornell.edu/content/readme): A readme file provides information about a data file and is intended to help ensure that the data can be correctly interpreted, by yourself at a later date or by others when sharing or publishing data. 
 
 ## Education
 - [Living Oceans Foundation Coral Reef Ecology Curriculum](https://www.livingoceansfoundation.org/education/portal/): Coral reef education materials for students and teachers.
