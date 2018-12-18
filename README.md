@@ -121,6 +121,7 @@ scheme for scoring marine biota and physical characteristics from underwater ima
 
 - [Biorender](https://biorender.io/): Thousands of scientific icons, mostly related to genetics and biochemistry.
 - [Conceptual diagram creator](http://ian.umces.edu/learn/conceptual_diagrams): A library and online editor containing over 2500 custom made vector symbols designed specifically for enhancing science communication skills.
+- [PhyloPic](http://phylopic.org/): Free silhouette images of animals, plants, and other life forms.
 
 ## Protocols sharing and discovery
 - [Protocols.io](https://www.protocols.io/): An open access platform for sharing and discovering up-to-date life science methods. Discover corrections and optimizations of the methods you use; share and get credit for your knowledge
