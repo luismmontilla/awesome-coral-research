@@ -21,6 +21,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 - __[Paper discovery](#image-annotation)__
 - __[Presentations](#presentations)__
 - __[Protocol sharing and discovery](#protocols-sharing-and-discovery)__
+- __[Restoration](#restoration)__
 - __[Scientific writing](#scientific-writing)__
 - __[Structure from motion and related](#structure-from-motion-and-related)__
 ----------------------------------------
@@ -126,6 +127,10 @@ scheme for scoring marine biota and physical characteristics from underwater ima
 ## Protocols sharing and discovery
 - [Protocols.io](https://www.protocols.io/): An open access platform for sharing and discovering up-to-date life science methods. Discover corrections and optimizations of the methods you use; share and get credit for your knowledge
 - [Scientific protocols](https://protocols.scienceexchange.com/): An open access platform for sharing and discovering protocols and methods. The site is heavily focused on GitHub integration.
+
+## Restoration
+
+- [Coral Reef Restoration Toolkit](http://natureseychelles.org/knowledge-centre/scientific-papers-database/scientific-papers/273-coral-reef-restoration-toolkit-a-field-oriented-guide-developed-in-the-seychelles-islands): A field-oriented guide developed in the Seychelles Islands
 
 ## Scientific writing
 - [Authorea](https://www.authorea.com/): An online collaborative writing tool that allows researchers to write, cite, collaborate, host data and publish. It also supports an online LaTeX editor as well as a Markdown (wiki) editor.
