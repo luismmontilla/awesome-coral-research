@@ -40,6 +40,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 ## Datasets
 - [AGRRA data explorer](http://www.agrra.org/data-explorer/): one of the largest database on Caribbean coral reef health indicators, with data available from more than 2,480 site surveys in 29 countries or territories throughout the Caribbean.
 - [Cnidbase](http://cnidbase.com/blast/): Cnidarian evolution genomic database.
+- [Allen Coral Atlas](http://allencoralatlas.org/atlas): High resolution satellite imagery and coral habitat maps to inform coral conservationMapping coral reefs to inform coral conservation.
 - [Coral microbiome portal](#microbiology): Jump to [Microbiology](#microbiology).
 - [Coral reef imagery by Eileen Graham of Jamaica in the 1960s](http://data.nhm.ac.uk/dataset/0ad5b54d-4c0d-4b14-94b1-35c218c5996f): Acollection of 1481 images that were made by Eileen Graham between 1966 and 1968 showing coral reefs from the northern coast of Jamaica.
 - [Coral traits](https://coraltraits.org/): A growing compilation of scleractinian coral life history trait, phylogenetic and biogeographic data.
