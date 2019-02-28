@@ -103,6 +103,7 @@ scheme for scoring marine biota and physical characteristics from underwater ima
 - [CPCe](https://cnso.nova.edu/cpce/index.html): A tool for the determination of coral cover using transect photographs. Only compatible with Windows.
 - [Seascape](http://www.seascapesoft.org/): A free software program to get semi-automatically segmented images (homogenous regions) from underwater photographs of benthic communities, where each individual patch (species/categories) is routinely associated to its area cover and perimeter.
 - [Photoquad](http://www.mar.aegean.gr/sonarlab/photoquad/index.php): A free software for advanced image processing of 2D photographic quadrat samples, dedicated to ecological applications. The system is designed to integrate all major 2D base analyses used in marine biology and ecology for studying biodiversity of sessile communities through photographic sampling.
+- [Squidle](http://www.squidle.org/): Online and in-field platforms for exploration, management, and annotation of georeferenced images & video.
 
 ## Microbiology:
 
