@@ -12,6 +12,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 - __[Data and project management](#data-and-project-management)__
 - __[Education](#education)__
 - __[Enzymatic assays](#enzymatic-assays)__
+- __[Epizootiology](#epizootiology)__
 - __[Genomics](#genomics)__
 - __[Histology](#histology)__
 - __[Identification and Taxonomy](#identification-and-taxonomy)__
@@ -66,9 +67,13 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 ## Enzymatic assays
 - [BRENDA](https://www.brenda-enzymes.org/): Enzymatic information system.
 
+##  Epizootiology
+- [Caribbean Coral Disease Watch](http://www.agrra.org/coral-disease-outbreak/):  Online tool to enhance collaboration, streamline data collecting and sharing in the Caribbean and better track disease outbreaks, mainly those that resemble Scleractinian Coral Tissue Loss Disease.
+- [CoDiRNet](https://github.com/luismmontilla/CoDiRNet): Coral Disease Research Network, a repository compiling papers about coral diseases, with focus on affected genera, ecoregions, and research questions.
+- Coral Disease and Health Workshop: Coral Histopathology II: Jump to [Histology](#histology)
+
 ## Funding
-- [Coral Reef
-Funding Landscape](https://coralfunders.com/): A tool exploring international funding allocations for the sustainable management of coral reefs and related mangroves and seagrass ecosystems.
+- [Coral Reef Funding Landscape](https://coralfunders.com/): A tool exploring international funding allocations for the sustainable management of coral reefs and related mangroves and seagrass ecosystems.
 - [Open Grants](https://www.ogrants.org/): A list of openly-shared grant proposals. The authors do this to open up science so that all stages of the process can benefit from better interaction and communication and to provide examples for early career scientists writing grants. 
 
 ## Genomics
