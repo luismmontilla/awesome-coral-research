@@ -70,6 +70,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 ##  Epizootiology
 - [Caribbean Coral Disease Watch](http://www.agrra.org/coral-disease-outbreak/):  Online tool to enhance collaboration, streamline data collecting and sharing in the Caribbean and better track disease outbreaks, mainly those that resemble Scleractinian Coral Tissue Loss Disease.
 - [CoDiRNet](https://github.com/luismmontilla/CoDiRNet): Coral Disease Research Network, a repository compiling papers about coral diseases, with focus on affected genera, ecoregions, and research questions.
+- Collecting corals for histopathology. A practical guide: Jump to [Histology](#histology)
 - Coral Disease and Health Workshop: Coral Histopathology II: Jump to [Histology](#histology)
 
 ## Funding
@@ -89,7 +90,9 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 - [SymPortal](http://www.symportal.org/): An analytical framework and platform for coral algal symbiont NGS ITS2 profiling.
 
 ## Histology
+- [Collecting corals for histopathology. A practical guide](https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/atoms/files/Collecting%20corals%20for%20histopathology.pdf): Manual for collecting and preserving coral samples for histopathology.
 - [Coral Disease and Health Workshop: Coral Histopathology II](https://www.coris.noaa.gov/activities/cdhc_histo_II/): Report containing a description of a study set of histology slides used in reaching consensus histopathological descriptions for selected coral lesions representing 15 types of field diagnosis, 9 presumed disease conditions, and 8 scleractinian and 1 gorgonian species.
+
 
 ## Identification and Taxonomy
 
