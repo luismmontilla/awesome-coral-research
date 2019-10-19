@@ -89,6 +89,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 - [*Pocillopora damicornis*](http://symbiont.iis.sinica.edu.tw/coral_pdltte/static/html/index.html#home): Interactive transcriptomic data for *Pocillopora damicornis*.
 - [Reef Genomics](http://reefgenomics.org): A collection of transcriptome and proteome data from reef organisms.
 - [*Seriatopora hystrix* +*Symbiodinium*](http://symbiont.iis.sinica.edu.tw/s_hystrix/static/html/): Interactive transcriptomic data for *Seriatopora hystrix*.
+- [Symbiodiniaceae genomic data](http://cxchan.com/genome-data/): Genome data generated from Team CX group (assemblies and annotations).
 - [SymPortal](http://www.symportal.org/): An analytical framework and platform for coral algal symbiont NGS ITS2 profiling.
 
 ## Histology
