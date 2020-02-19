@@ -103,6 +103,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 - [Corals of Chagos](https://chagosinformationportal.org/corals): Corals of Chagos documents the approximately 300 corals and reef building relatives that are found in the Chagos Archipelago.
 - [Corals of the World](http://www.coralsoftheworld.org/page/home/): Information, identification, distribution and taxonomy of reef building corals.
 - [Guam reef life](http://www.guamreeflife.com/species-id/): A collection of images representing more than 2700 marine organisms to identify reef species seen on Guam.
+- [The Coral Compactus: Western Australia Hard Coral Genus Identification Guide](http://museum.wa.gov.au/kimberley/coral-compactus-western-australia-hard-coral-genus-identification-guide-version-11): Identification material to support research, monitoring and biodiversity conservation in Western Australia.
 - [The Sponge Guide](http://www.spongeguide.org/): A photographic guide to Caribbean sponges.
 - [World register of marine species](http://www.marinespecies.org/): Platform aiming to provide the most authoritative list of names of all marine species globally.
 
