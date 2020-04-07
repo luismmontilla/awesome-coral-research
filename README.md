@@ -72,6 +72,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 - [CoDiRNet](https://github.com/luismmontilla/CoDiRNet): Coral Disease Research Network, a repository compiling papers about coral diseases, with focus on affected genera, ecoregions, and research questions.
 - Collecting corals for histopathology. A practical guide: Jump to [Histology](#histology)
 - Coral Disease and Health Workshop: Coral Histopathology II: Jump to [Histology](#histology)
+- [Virgin Islands Coral Disease](https://www.vicoraldisease.org/): A repository with information about stony coral tissue loss disease (SCTLD) epidemiology, research, intervention, and more that is being conducted in the Virgin Islands territories.
 
 ## Funding
 - [Coral Reef Funding Landscape](https://coralfunders.com/): A tool exploring international funding allocations for the sustainable management of coral reefs and related mangroves and seagrass ecosystems.
