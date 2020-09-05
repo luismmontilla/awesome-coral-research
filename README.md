@@ -89,6 +89,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 - [Meyer lab coral transcriptomes](http://people.oregonstate.edu/~meyere/data.html): Transcriptomics data for several cnidarian species.
 - [*Montastraea cavernosa* genotypes](http://mesophoticmike.weebly.com/data--code.html): Gulf of Mexico *Montastraea cavernosa* genotypes.
 - [*Pocillopora damicornis*](http://symbiont.iis.sinica.edu.tw/coral_pdltte/static/html/index.html#home): Interactive transcriptomic data for *Pocillopora damicornis*.
+- [*Posillopora verrucosa*](http://pver.reefgenomics.org/): Pocillopora verrucosa genome v1.0
 - [Reef Genomics](http://reefgenomics.org): A collection of transcriptome and proteome data from reef organisms.
 - [*Seriatopora hystrix* +*Symbiodinium*](http://symbiont.iis.sinica.edu.tw/s_hystrix/static/html/): Interactive transcriptomic data for *Seriatopora hystrix*.
 - [Symbiodiniaceae genomic data](http://cxchan.com/genome-data/): Genome data generated from Team CX group (assemblies and annotations).
