@@ -154,9 +154,9 @@ scheme for scoring marine biota and physical characteristics from underwater ima
 ## Scientific writing
 - [Authorea](https://www.authorea.com/): An online collaborative writing tool that allows researchers to write, cite, collaborate, host data and publish. It also supports an online LaTeX editor as well as a Markdown (wiki) editor.
 - [CRediT](https://casrai.org/credit/): CRediT is high-level taxonomy, including 14 roles, that can be used to represent the roles typically played by contributors to scientific scholarly output. The roles describe each contributor’s specific contribution to the scholarly output.
-- [Manuscripts](https://www.manuscriptsapp.com/): A offline free tool for writing scientific documents. Support for Mac only.
+- [Manuscripts](https://www.manuscripts.io/about/): An online free tool for writing scientific documents.
 - [Overleaf](https://www.overleaf.com/): An online LaTeX and Rich Text collaborative writing and publishing tool that makes the whole process of writing, editing and publishing scientific documents much quicker and easier.
-- [Texture](http://substance.io/texture/): Texture is an open-source toolset for the production of scientific content.
+- [Texture](https://github.com/substance/texture): Texture is an open-source toolset for the production of scientific content.
 - [Stencila](https://stenci.la/): Stencila provides a set of open-source software components enabling reproducible research within the tool of your choice. Stencila allows you to write reproducible documents containing interactive source code using the interfaces you are most familiar with. Stencila components can be combined in various ways and plugged into existing reproducible infrastructure.
 
 ## Structure-from-Motion and related
