@@ -112,6 +112,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 
 ## Image annotation
 
+- [Biigle](https://biigle.de/): BIIGLE is a web service for the efficient and rapid annotation of still images and videos. It was built for marine environmental monitoring and exploration but can be used for any image annotation task.
 - [CATAMI Classification scheme](http://catami.org/): Standard classification
 scheme for scoring marine biota and physical characteristics from underwater imagery.
 - [CoralNet](https://coralnet.ucsd.edu/): A web solution for coral reef analysis. Upload coral reef images, organize and annotate images, and view annotation statistics.
