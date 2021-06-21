@@ -48,7 +48,8 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 - [Deep sea coral data porta](https://deepseacoraldata.noaa.gov/): Deep sea coral and sponge data, images, and technical reports from research funded by NOAA’s Deep Sea Coral Research and Technology Program (DSCRTP) and its partners.
 - [Fishbase](http://www.fishbase.org/search.php): A global species database of fish species.
 - [Coral transcriptomes](#genomics): Jump to [Genomics](#genomics)
-- [OBIS](http://www.iobis.org/): A global open-access data and information clearing-house on marine biodiversity for science, conservation and sustainable development
+- [OBIS](http://www.iobis.org/): A global open-access data and information clearing-house on marine biodiversity for science, conservation and sustainable development.
+- [Venezuelan transects](https://osf.io/he6qw/): A photographic data set of reef and coral communities across Venezuela.
 
 
 ## Data analysis
