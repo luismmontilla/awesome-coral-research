@@ -180,6 +180,7 @@ scheme for scoring marine biota and physical characteristics from underwater ima
 - [Coral-List](http://coral.aoml.noaa.gov/mailman/listinfo/coral-list): NOAA's listserver for coral reef information and news.
 - [CoRIS](https://www.coris.noaa.gov/welcome.html): Coral reef information system. Portal that provides access to NOAA coral reef information and data products with emphasis on the U.S. states, territories and remote island areas.
 - [CRESCYNT](https://www.earthcube.org/group/crescynt-coral-reef-science-cyberinfrastructure-network): Coral Reef Science and Cyberinfrastructure Network. A multi-tiered and multidisciplinary network of coral reef researchers, ocean scientists, cyberinfrastructure specialists, and computer scientists.
+- [FathomNet](http://fathomnet.org/fathomnet/): an open-source image database for understanding our ocean and its inhabitants
 - [IUCN Red List of Threatened Species](http://www.iucnredlist.org): A list providing taxonomic, conservation status and distribution information on plants, fungi and animals that have been globally evaluated using the IUCN Red List Categories and Criteria.
 - [Mesophotic.org](http://www.mesophotic.org/): A repository for information on mesophotic coral ecosystems
 - [Reef base](http://www.reefbase.org/main.aspx): A global information system for coral reefs.
