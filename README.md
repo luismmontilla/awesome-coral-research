@@ -114,6 +114,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 ## Image annotation
 
 - [Biigle](https://biigle.de/): BIIGLE is a web service for the efficient and rapid annotation of still images and videos. It was built for marine environmental monitoring and exploration but can be used for any image annotation task.
+- [BioDoc.ai](https://www.biodoc.ai/): Web-based Deep-AI assisted image annotation tool.
 - [CATAMI Classification scheme](http://catami.org/): Standard classification
 scheme for scoring marine biota and physical characteristics from underwater imagery.
 - [CoralNet](https://coralnet.ucsd.edu/): A web solution for coral reef analysis. Upload coral reef images, organize and annotate images, and view annotation statistics.
@@ -169,6 +170,7 @@ scheme for scoring marine biota and physical characteristics from underwater ima
 - [Bundler](https://www.cs.cornell.edu/%7Esnavely/bundler/): A structure-from-motion (SfM) system for unordered image collections.
 - [Hugin](http://hugin.sourceforge.net/): Stitching any series of overlapping pictures.
 - [Meshlab](http://www.meshlab.net/): Open source system for processing and editing 3D triangular meshes.
+- [Meshroom](https://alicevision.org/#meshroom) Open-source 3D Reconstruction Software based on the AliceVision Photogrammetric Computer Vision framework.
 - [Sketchfab](https://sketchfab.com/): Publish and find 3D models online.
 - [OpenCV SfM module](https://docs.opencv.org/3.1.0/de/d7c/tutorial_table_of_content_sfm.html): The opencv_sfm module contains algorithms to perform 3d reconstruction from 2d images.
 - [OpenDroneMap](http://opendronemap.org/): Generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images.
