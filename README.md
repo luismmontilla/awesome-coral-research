@@ -145,7 +145,7 @@ scheme for scoring marine biota and physical characteristics from underwater ima
 
 - [Bioicons](https://bioicons.com/): A free library of open source icons for scientific illustrations using vector graphics software such as Inkscape or Adobe Illustrator.
 - [Biorender](https://biorender.io/): Thousands of scientific icons, mostly related to genetics and biochemistry.
-- [Conceptual diagram creator](http://ian.umces.edu/learn/conceptual_diagrams): A library and online editor containing over 2500 custom made vector symbols designed specifically for enhancing science communication skills.
+- [IAN media library](https://ian.umces.edu/media-library/symbols/): The IAN symbol libraries contain over 3000 custom made vector symbols designed specifically for enhancing science communication products with diagrammatic representations of complex processes. You can download them individually, or as an entire package in AI, SVG, or PNG formats.
 - [PhyloPic](http://phylopic.org/): Free silhouette images of animals, plants, and other life forms.
 
 ## Protocols sharing and discovery
