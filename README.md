@@ -49,6 +49,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources that you
 - [Fishbase](http://www.fishbase.org/search.php): A global species database of fish species.
 - [Coral transcriptomes](#genomics): Jump to [Genomics](#genomics)
 - [OBIS](http://www.iobis.org/): A global open-access data and information clearing-house on marine biodiversity for science, conservation and sustainable development.
+- [OpenWaterAtlas Spot–Climate–Species–Routes Dataset](https://doi.org/10.5281/zenodo.20668393): 2,928 dive sites carrying NOAA Degree-Heating-Weeks coral-bleaching status, joined to 112,548 OBIS + GBIF marine species occurrences within 5 km and per-spot 5-year daily climate aggregates. CC-BY 4.0; mirrored on Kaggle and HuggingFace.
 - [Venezuelan transects](https://osf.io/he6qw/): A photographic data set of reef and coral communities across Venezuela.
 
 
